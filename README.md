@@ -1,9 +1,9 @@
 # LSAPP - Laravel From Scratch App
 
-This is the source code for the "Laravel From Scratch" Youtube series by Traversy media. It is a website with a blog application. It also includes full authentication and file uploading.
+This is the source code for the Blog Post Project created using Laravel Framework
 
 ## Version
-1.0.0
+5.8
 
 ## Database
 The sql dump is in _SQL/lsapp.sql
